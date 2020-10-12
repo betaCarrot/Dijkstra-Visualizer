@@ -1,7 +1,7 @@
 # Dijkstra-Visualizer
 This is a standard Qt project built with Qt 4.10.2
 
-A Step-by-step visualization of the dijkstra shortest-path algorithm implemented with Hash Set and AVL Tree.
+A Step-by-step visualization of the dijkstra shortest-path algorithm implemented with Hash Set and Red-Black Tree.
 
 Features include:
 
